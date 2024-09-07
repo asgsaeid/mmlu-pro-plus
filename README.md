@@ -53,7 +53,7 @@ Here are the accuracy results (%) on MMLU-Pro+ categories with performance drop 
 
 If you use MMLU-Pro+ in your research, please cite our paper:
 
-```
+```bibtex
 @article{taghanaki2024mmlu,
   title={MMLU-Pro+: Evaluating Higher-Order Reasoning and Shortcut Learning in LLMs},
   author={Taghanaki, Saeid Asgari and Khani, Aliasgahr and Khasahmadi, Amir},
