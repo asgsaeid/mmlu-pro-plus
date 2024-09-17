@@ -36,18 +36,20 @@ There are three main evaluation scripts:
 
 Here are the accuracy results (%) on MMLU-Pro+ categories with performance drop from MMLU-Pro:
 
-<img width="556" alt="image" src="https://github.com/user-attachments/assets/09fc5662-c3b1-445a-844e-abd208d314fc">
+<img width="759" alt="image" src="https://github.com/user-attachments/assets/889b7705-3ddd-4fea-86eb-dedf492075c3">
+
 
 ## Additional Analyses
 
 ### Shortcut Learning Analysis
 
-<img width="470" alt="image" src="https://github.com/user-attachments/assets/a7926785-3f03-4f49-91f4-3527dadf6736">
+<img width="481" alt="image" src="https://github.com/user-attachments/assets/a730681f-c68c-4122-ba70-3db47daf724d">
 
 
 ### Correct Pair Identification (CPI) Analysis
 
-<img width="589" alt="image" src="https://github.com/user-attachments/assets/f0361ae5-8cb1-45ab-a02b-8e27be2a7cd6">
+<img width="622" alt="image" src="https://github.com/user-attachments/assets/93638947-974d-4a90-9d84-eb991ae626fc">
+
 
 
 ## Citation
