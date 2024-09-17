@@ -10,17 +10,18 @@ MMLU-Pro+ is adopted from the [MMLU-Pro repository](https://github.com/TIGER-AI-
 
 We evaluated the following state-of-the-art LLMs:
 
-1. GPT-4o
-2. Claude Sonnet 3.5
-3. Gemini 1.5 Pro
-4. Llama 3.1 405B Instruct
-5. Qwen 2 72B Instruct
+1. O1-preview
+2. GPT-4o
+3. Claude-Sonnet-3.5
+4. Gemini-1.5-Pro
+5. Llama-3.1-405B-Instruct
+6. Qwen-2-72B-Instruct
 
 ## Evaluation Methods
 
 We used API calls to evaluate the models:
 
-- Gemini 1.5 Pro and GPT-4o: We used their original APIs.
+- Gemini 1.5 Pro, GPT-4o, and O1-preview: We used their original APIs.
 - Llama 3.1 405B Instruct and Qwen 2 72B Instruct: We used the API from [DeepInfra](https://deepinfra.com/).
 
 ## Evaluation Scripts
