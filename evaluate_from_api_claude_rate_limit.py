@@ -8,6 +8,7 @@ import time
 from datasets import load_dataset
 import argparse
 
+
 # inser your api key here
 API_KEY = ""
 
@@ -244,17 +245,7 @@ def save_res(res, output_res_path):
         json.dump(list(unique_res), fo)
 
 
-import os
-import anthropic
-import json
-import re
-import random
-from tqdm import tqdm
-import time
-from datasets import load_dataset
-import argparse
 
-# ... [previous code remains unchanged] ...
 
 def evaluate(category=None):
     client = get_client()
