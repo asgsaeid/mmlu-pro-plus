@@ -1,4 +1,5 @@
-# MMLU-Pro+ Dataset and Evaluation
+# MMLU-Pro+ Dataset and Evaluation 
+_NeurIPS 2024, Safe Generative AI_
 
 This repository contains the MMLU-Pro+ dataset and evaluation scripts, an enhanced version of the MMLU-Pro benchmark designed to assess higher-order reasoning capabilities in Large Language Models (LLMs).
 
