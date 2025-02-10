@@ -7,7 +7,7 @@ This repository contains the MMLU-Pro+ dataset and evaluation scripts, an enhanc
 
 ## Overview
 
-MMLU-Pro+ is adopted from the [MMLU-Pro repository](https://github.com/TIGER-AI-Lab/MMLU-Pro) and has been modified to work with our MMLU-Pro+ dataset. It introduces questions with multiple correct answers, probing the higher-order reasoning capabilities and potential shortcut learning of LLMs.
+MMLU-Pro+ introduces multi-choice questions with **multiple correct answers**, and distractors probing the higher-order reasoning capabilities and potential shortcut learning of LLMs. It is also available through [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness).
 
 ## Models Tested
 
