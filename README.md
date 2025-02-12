@@ -7,7 +7,7 @@ This repository contains the MMLU-Pro+ dataset and evaluation scripts, an enhanc
 
 ## Overview
 
-MMLU-Pro+ introduces multi-choice questions with **multiple correct answers**, and distractors probing the higher-order reasoning capabilities and potential shortcut learning of LLMs. It is also available through [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness/blob/a40fe42aae2a5232448495c7bb5bf76aef100309/lm_eval/tasks/mmlu-pro-plus/README.md#L4).
+MMLU-Pro+ introduces multi-choice questions with **multiple correct answers**, and distractors probing the higher-order reasoning capabilities and potential shortcut learning of LLMs. It is also available through EleutherAI's [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness/blob/a40fe42aae2a5232448495c7bb5bf76aef100309/lm_eval/tasks/mmlu-pro-plus/README.md#L4).
 
 ## Models Tested
 
